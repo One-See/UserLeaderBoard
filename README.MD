@@ -8,6 +8,7 @@ A simple Spring Boot application that keeps track of the scores of various users
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Postman Collection](#postman-collection)
 
 ## Introduction
 
@@ -44,3 +45,6 @@ To get started with the project, follow these steps:
 
 Once the application is running, you can interact with it using tools like `curl` or Postman.
 
+## Postman Collection
+
+You can find the Postman collection for this project [here](https://www.postman.com/orbital-module-participant-78269956/workspace/userleaderboard/collection/29092371-247ffd98-d08d-4763-a9ca-000a5d3eb01a?action=share&creator=29092371).
