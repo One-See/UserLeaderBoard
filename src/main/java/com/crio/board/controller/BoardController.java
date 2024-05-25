@@ -1,7 +1,5 @@
 package com.crio.board.controller;
 
-import java.util.List;
-
 import org.springframework.web.bind.annotation.RestController;
 
 import com.crio.board.dto.CreateUserDTO;
@@ -10,7 +8,6 @@ import com.crio.board.exceptions.BadgeLimitExceededException;
 import com.crio.board.exceptions.InvalidUserException;
 import com.crio.board.exceptions.NonUniqueUserException;
 import com.crio.board.model.User;
-import com.crio.board.repository.UserRepository;
 import com.crio.board.service.UserService;
 
 import jakarta.validation.Valid;
